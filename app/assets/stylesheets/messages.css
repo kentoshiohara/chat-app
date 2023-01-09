@@ -93,12 +93,12 @@
   margin-bottom: 40px;
 }
 
-.name-date{
+.upper-message{
   display: flex;
   margin: 10px 0;
 }
 
-.message-name{
+.message-user{
   font-size: 16px;
   color: #434a54;
   margin-right: 10px;
